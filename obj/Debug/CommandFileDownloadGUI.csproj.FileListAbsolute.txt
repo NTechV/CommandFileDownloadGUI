@@ -1,0 +1,11 @@
+E:\NTechV\Projects\CommandFileDownloadGUI\bin\Debug\CommandFileDownloadGUI.exe.config
+E:\NTechV\Projects\CommandFileDownloadGUI\bin\Debug\CommandFileDownloadGUI.exe
+E:\NTechV\Projects\CommandFileDownloadGUI\bin\Debug\CommandFileDownloadGUI.pdb
+E:\NTechV\Projects\CommandFileDownloadGUI\obj\Debug\CommandFileDownloadGUI.csproj.AssemblyReference.cache
+E:\NTechV\Projects\CommandFileDownloadGUI\obj\Debug\CommandFileDownloadGUI.csproj.SuggestedBindingRedirects.cache
+E:\NTechV\Projects\CommandFileDownloadGUI\obj\Debug\CommandFileDownloadGUI.Form1.resources
+E:\NTechV\Projects\CommandFileDownloadGUI\obj\Debug\CommandFileDownloadGUI.Properties.Resources.resources
+E:\NTechV\Projects\CommandFileDownloadGUI\obj\Debug\CommandFileDownloadGUI.csproj.GenerateResource.cache
+E:\NTechV\Projects\CommandFileDownloadGUI\obj\Debug\CommandFileDownloadGUI.csproj.CoreCompileInputs.cache
+E:\NTechV\Projects\CommandFileDownloadGUI\obj\Debug\CommandFileDownloadGUI.exe
+E:\NTechV\Projects\CommandFileDownloadGUI\obj\Debug\CommandFileDownloadGUI.pdb
